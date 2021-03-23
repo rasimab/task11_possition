@@ -1,0 +1,41 @@
+
+body{
+    color: #333;
+
+}
+
+.main-div{
+    margin: auto;
+    width: 600px;
+}
+  .div1
+   {
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin: 0;
+    padding: 30px;
+    background: #eee;
+  }
+  
+  
+  
+  p {
+    font-size: 20px;
+  }
+  
+  .div2{
+    position: relative;
+    height: 100px;
+    padding: 20px;
+    background: #eee;
+  }
+  
+  .div3 {
+    position: absolute;
+    right: 10px;
+    width: 150px;
+    padding: 20px;
+    background: #999;
+  }
+  
